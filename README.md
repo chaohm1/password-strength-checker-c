@@ -16,10 +16,10 @@ Password strength analyzer with detailed validation and user feedback system.
 - **Memory Management**: Dynamic allocation with proper error handling.
 
 ## How to Compile
-gcc password_checker.c -o password_checker
+gcc password-strength-checker.c -o password-strength-checker
 
 ## How to Run
-./password_checker
+./password-strength-checker
 
 * Sample Output :
 
@@ -63,4 +63,5 @@ Your Password is Strong
 
 # Author
 [chaohm1] - August 2025
+
 Part of SOC Analyst Portfolio.
